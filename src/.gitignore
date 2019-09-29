@@ -1,0 +1,9 @@
+# ignore files and dir
+.idea/*
+private/*
+output/*
+META-INF/*
+target/*
+*.iml
+src/test/*
+.gitignore_*
